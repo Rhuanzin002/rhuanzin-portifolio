@@ -1289,6 +1289,9 @@ section {
         padding-left: 24px;
         padding-right: 24px;
     }
+    .more-work-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
 }
 
 
@@ -1417,6 +1420,13 @@ section {
 
         padding-top: 32px;
         padding-bottom: 32px;
+    }
+    .more-work-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .more-work-card {
+        width: 100%;
     }
 }
 
