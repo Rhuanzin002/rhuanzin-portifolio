@@ -4,7 +4,7 @@ Personal front-end development portfolio showcasing projects across different le
 
 ## Live Website
 
-[View Portfolio](COLOQUE_AQUI_O_LINK_DO_GITHUB_PAGES)
+[View Portfolio](https://rhuanzin002.github.io/rhuanzin-portifolio/)
 
 ## Featured Projects
 
